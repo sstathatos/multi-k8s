@@ -11,10 +11,10 @@ spec:
   dnsNames:
     - sstathatos.tech
     - www.sstathatos.tech
-  acme:
-    config:
-      - http01:
-          ingressClass: nginx
-        domains:
-          - sstathatos.tech
-          - www.sstathatos.tech
+#  acme:
+#    config:
+#      - http01:
+#          ingressClass: nginx
+#        domains:
+#          - sstathatos.tech
+#          - www.sstathatos.tech
